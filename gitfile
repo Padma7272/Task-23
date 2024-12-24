@@ -4,4 +4,8 @@ git add .
 git commit -m
 git push
 git log
+<<<<<<< HEAD
 git statrus
+=======
+changes made by padma
+>>>>>>> d2f47aa2ac2c54d39ea8cba88daf7aac1457e5b8
